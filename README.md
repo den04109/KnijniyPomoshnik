@@ -64,7 +64,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/den04109/PyChay-KnijniyPomoschnik1-1
+git clone https://github.com/KnijniyPomoshnik
 
 # Создать venv
 python -m venv venv    
